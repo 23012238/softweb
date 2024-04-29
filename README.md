@@ -733,13 +733,13 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](nani/softapp/static/1.home.png)
+![alt text](1.home.png)
 
-![alt text](nani/softapp/static/2.product.png)
+![alt text](2.product.png)
 
-![alt text](nani/softapp/static/3.people.png)
+![alt text](3.people.png)
 
-![alt text](nani/softapp/static/4.contact.png)
+![alt text](4.contact.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
